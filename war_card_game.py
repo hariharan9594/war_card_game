@@ -1,4 +1,5 @@
 import random
+
 typ = "text"
 
 intro ='''\nWelcome to War-Card game. In this game you opponent is computer. Basically this is a card game.The card with greater value takes opponent flash up card, if both cards are equal then the actual war begins.During war, the program automatically takes first 3 cards from computer and player, after that nxt flash up card decide who is bigger, if the nxt flash up card also equal, the war continues.
